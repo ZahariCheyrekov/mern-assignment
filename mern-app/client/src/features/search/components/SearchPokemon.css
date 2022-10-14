@@ -1,0 +1,25 @@
+.search__pokemon--section {
+    margin: 100px 0;
+}
+
+.pokemon__form {
+    display: flex;
+    max-width: 450px;
+    margin: 0 auto;
+    height: 30px;
+}
+
+.pokemon__form--input {
+    flex-basis: 80%;
+    padding: 10px;
+    outline: none;
+    border: 1px solid lightgray;
+}
+
+.pokemon__form--input:focus {
+    box-shadow: 0 0 2px 0 rgb(158, 158, 158);
+}
+
+.pokemon__form--button {
+    flex-basis: 20%;
+}
