@@ -1,5 +1,9 @@
 # mern-assignment
 
+# About 
+
+This is a MERN stack assignment project and the idea is to collaborate with an external API. You can learn more about the API here <a href="https://pokeapi.co/">PokeAPI</a>.
+
 # How to run the app on your computer
 
 1. You can download the project ZIP file or you can clone the repository directly.
