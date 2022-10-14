@@ -1,0 +1,28 @@
+.pokemon__types {
+    max-width: 800px;
+    margin: 0 auto 100px auto;
+}
+
+.pokemon__types--title {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.pokemon__types--list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pokemon__types--item {
+    text-align: center;
+    margin: 4px 0;
+    flex-basis: 33.33%;
+}
+
+.pokemon__type--name {
+    cursor: pointer;
+}
+
+.pokemon__type--name:hover {
+    color: rgb(0, 0, 255);
+}
