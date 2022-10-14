@@ -22,4 +22,14 @@
 
 .pokemon__form--button {
     flex-basis: 20%;
+    border: 1px solid rgb(17, 17, 104);
+    background-color: rgb(17, 17, 104);
+    color: #fff;
+
+    font-size: 1rem;
+    letter-spacing: 0.6px;
+}
+
+.pokemon__form--button:hover {
+    background-color: rgb(32, 32, 152);
 }
